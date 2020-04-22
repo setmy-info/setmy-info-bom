@@ -1,1 +1,1 @@
-# setmy-info-bom
+# info-setmy-bom
